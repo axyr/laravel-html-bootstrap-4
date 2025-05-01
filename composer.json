@@ -1,12 +1,12 @@
 {
-    "name": "marvinlabs/laravel-html-bootstrap-4",
+    "name": "axyr/laravel-html-bootstrap-4",
     "description": "A fluent html builder for Bootstrap 4 components",
     "keywords": [
-        "marvinlabs",
+        "axyr",
         "bootstrap-4",
         "html"
     ],
-    "homepage": "https://github.com/marvinlabs/laravel-html-bootstrap-4",
+    "homepage": "https://github.com/axyr/laravel-html-bootstrap-4",
     "license": "MIT",
     "authors": [
         {
